@@ -1,4 +1,4 @@
-## Hi! I'm Diego Biscaia
+## Olá! Eu sou o Diego Biscaia
 
 - 🔭 Em busca da primeira oportunidade Front-End
 - 🌱 Estudando JavaScript e React-Native
