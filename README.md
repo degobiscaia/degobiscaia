@@ -3,7 +3,6 @@
 - 🔭 Em busca da primeira oportunidade Front-End
 - 🌱 Estudando JavaScript e React-Native
 - 📫 Contate-me no email: diegobiscaiadiego@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/degobiscaia">
