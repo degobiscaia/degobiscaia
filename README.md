@@ -4,7 +4,7 @@
 - 🌱 Estudando JavaScript e React-Native
 - 📫 Contate-me no email: diegobiscaiadiego@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=degobiscaia&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=degobiscaia&show_icons=true&theme=transparent)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degobiscaia&layout=compact&theme=transparent)](https://github.com/degobiscaia/github-readme-stats)
 
 <div style="display: inline_block"><br>
