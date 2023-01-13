@@ -3,7 +3,7 @@
 - 🔭 Em busca da primeira oportunidade Front-End
 - 🌱 Estudando JavaScript e React-Native
 - 📫 Contate-me no email: diegobiscaiadiego@gmail.com
-
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Dego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dego-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
