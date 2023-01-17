@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Diego Biscaia
 
-- 🔭 Em busca da primeira oportunidade em desenvolvimento web.
+- 🔭 Em busca da primeira oportunidade em Front-End.
 - 🌱 Estudando React-Native
 - 📫 Contate-me no email: diegobiscaiadiego@gmail.com
 
