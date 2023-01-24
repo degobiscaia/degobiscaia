@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Diego Biscaia
 
 - 🔭 Em busca da primeira oportunidade em Front-End.
-- 🌱 Estudando React-Native
+- 🌱 Estudando React.JS e PHP.
 - 📫 Contate-me no email: diegobiscaiadiego@gmail.com
 
   
