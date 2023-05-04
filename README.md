@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Diego Biscaia
 
-- 🔭 Em busca da primeira oportunidade em Desenvolvimento de Software.
+- 🔭 Em busca da primeira oportunidade Full-Stack.
 - 🌱 Estudando PHP.
 - 📫 Contate-me no email: diegobiscaiadiego@gmail.com
 
