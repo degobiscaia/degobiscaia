@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Diego Biscaia
 
-- 🔭 Em busca da primeira oportunidade Full-Stack.
-- 🌱 Estudando PHP.
+- 🔭 Em busca de uma oportunidade em desenvolvimento web.
+- 🌱 Estudando React.js.
 - 📫 Contate-me no email: diegobiscaiadiego@gmail.com
 
   
