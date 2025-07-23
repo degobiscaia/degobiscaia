@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Diego Biscaia
 
-- 🔭 Em busca da primeira oportunidade em desenvolvimento web.
-- 🌱 Estudando React.js.
+- 🔭 Em busca da primeira oportunidade em desenvolvimento Front-End.
+- 🌱 Estudando React.js e Banco De Dados relacional MySQL.
 - 📫 Contate-me no email: diegobiscaiadiego@gmail.com
 
   
