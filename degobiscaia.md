@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-Me chamo Diego Biscaia, tenho 25 anos e sou natural de Curitiba, Paraná. Concluí o ensino médio no Colégio Estadual Desembargador Jorge Andriguetto. Atualmente, estou cursando 2º Semestre em Engenharia de Software na UNIASSELVI. Gosto muito de tecnologia e compartilho meu conhecimento através do meu Portfólio "[Diego Biscaia](https://www.youtube.com/@larissakich)", onde armzeno todos os meus projetos web que vou desenvolvendo ao longo da minha jornada, e também através do Linkedin, com o perfil chamado "[Diego Biscaia](https://www.instagram.com/dev_em_dev/)".
+Me chamo Diego Biscaia, tenho 25 anos e sou natural de Curitiba, Paraná. Concluí o ensino médio no Colégio Estadual Desembargador Jorge Andriguetto. Atualmente, estou cursando 2º Semestre em Engenharia de Software na UNIASSELVI. Gosto muito de tecnologia e compartilho meu conhecimento através do meu Portfólio "[Diego Biscaia](https://degobiscaia.github.io/meu-portfolio-interativo-responsivo/)", onde armzeno todos os meus projetos web que vou desenvolvendo ao longo da minha jornada.
 
 <p align="left">
     <a href="https://github.com/degobiscaia?tab=repositories&sort=stargazers">
