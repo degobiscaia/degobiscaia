@@ -51,6 +51,14 @@ Me chamo Diego Biscaia, tenho 25 anos e sou natural de Curitiba, Paraná. Conclu
 />
 <img 
     align="left" 
+    alt="Typescript" 
+    title="Typescript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -90,14 +98,6 @@ Me chamo Diego Biscaia, tenho 25 anos e sou natural de Curitiba, Paraná. Conclu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Typescript" 
-    title="Typescript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 
 <br/>
