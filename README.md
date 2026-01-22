@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-Me chamo Diego Biscaia, tenho 25 anos e sou natural de Curitiba, Paraná. Concluí o ensino médio no Colégio Estadual Desembargador Jorge Andriguetto. Atualmente, estou cursando 3º Semestre em Engenharia de Software na UNIASSELVI. Gosto muito de tecnologia e compartilho meu conhecimento aprendindo por meio de projetos pessoais, que estão meu Portfólio "[Meu portfólio](https://degobiscaia.github.io/meu-portfolio-interativo-responsivo/)", onde armazeno não apenas meus projetos, mas sim todo o meu conhecimento que vou desenvolvendo ao longo da minha jornada rumo ao desenvolvimento web.
+Me chamo Diego Biscaia, tenho 25 anos e sou natural de Curitiba, Paraná. Concluí o ensino médio no Colégio Estadual Desembargador Jorge Andriguetto. Atualmente, estou cursando 3º Semestre em Engenharia de Software na UNIASSELVI. Gosto muito de tecnologia e compartilho meu conhecimento aprendido por meio de projetos pessoais, que estão no meu Portfólio: "[Meu portfólio](https://degobiscaia.github.io/meu-portfolio-interativo-responsivo/)", onde armazeno meus projetos, e todo o meu conhecimento adquirido ao longo da minha jornada rumo ao desenvolvimento web.
 
 <p align="left">
     <a href="https://github.com/degobiscaia?tab=repositories&sort=stargazers">
@@ -73,16 +73,6 @@ Me chamo Diego Biscaia, tenho 25 anos e sou natural de Curitiba, Paraná. Conclu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-
 <img 
     align="left" 
     alt="Git" 
