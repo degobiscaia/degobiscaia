@@ -2,7 +2,12 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Diego Biscaia, tenho 25 anos e sou natural de Curitiba, Paraná. Concluí o ensino médio no Colégio Estadual Desembargador Jorge Andriguetto. Atualmente, estou cursando 3º Semestre em Engenharia de Software na UNIASSELVI. Gosto muito de tecnologia e compartilho meu conhecimento aprendido por meio de projetos pessoais, que estão no meu Portfólio: "[Meu portfólio](https://degobiscaia.github.io/meu-portfolio-interativo-responsivo/)", onde armazeno meus projetos, e todo o meu conhecimento adquirido ao longo da minha jornada rumo ao desenvolvimento web.
+Olá! Me chamo Diego Biscaia, sou estudante de Engenharia de Software na UNIASSELVI e atualmente estou no 3º semestre. Tenho experiência com desenvolvimento web utilizando JavaScript, TypeScript, React.js, Node.js, HTML, CSS, MySQL e Git.
+
+Gosto de desenvolver projetos pessoais focados em aplicações web, consumo de APIs, interfaces responsivas e desenvolvimento full-stack. Neste perfil compartilho meus projetos, estudos e evolução na área de tecnologia.
+
+🔗 Portfólio: https://degobiscaia.github.io/meu-portfolio-interativo-responsivo/
+
 
 <p align="left">
     <a href="https://github.com/degobiscaia?tab=repositories&sort=stargazers">
