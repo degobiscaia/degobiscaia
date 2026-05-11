@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Diego Biscaia
 
-**`Desenvolvedor Frontend`**
+**`Desenvolvedor Full-Stack`**
 
 Me chamo Diego Biscaia, tenho 25 anos e sou natural de Curitiba, Paraná. Concluí o ensino médio no Colégio Estadual Desembargador Jorge Andriguetto. Atualmente, estou cursando 3º Semestre em Engenharia de Software na UNIASSELVI. Gosto muito de tecnologia e compartilho meu conhecimento aprendido por meio de projetos pessoais, que estão no meu Portfólio: "[Meu portfólio](https://degobiscaia.github.io/meu-portfolio-interativo-responsivo/)", onde armazeno meus projetos, e todo o meu conhecimento adquirido ao longo da minha jornada rumo ao desenvolvimento web.
 
