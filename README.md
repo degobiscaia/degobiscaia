@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Olá! Me chamo Diego Biscaia, sou estudante de Engenharia de Software na UNIASSELVI e atualmente estou no 3º semestre. Tenho experiência com desenvolvimento web utilizando JavaScript, TypeScript, React.js, Node.js, HTML, CSS, MySQL e Git.
+Olá! Me chamo Diego Biscaia, sou estudante de Engenharia de Software na UNIASSELVI e atualmente estou no 4º semestre. Tenho experiência com desenvolvimento web utilizando JavaScript, TypeScript, React.js, Node.js, HTML, CSS, MySQL e Git.
 
 Gosto de desenvolver projetos pessoais focados em aplicações web, consumo de APIs, interfaces responsivas e desenvolvimento full-stack. Neste perfil compartilho meus projetos, estudos e evolução na área de tecnologia.
 
